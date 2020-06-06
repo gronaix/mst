@@ -1,0 +1,2 @@
+# mst
+minecraft-server-tool
